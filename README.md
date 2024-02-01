@@ -33,3 +33,5 @@ Y <- data.matrix(Y)
 ```
 ## Result
 Our results for 48 organizations on the GTEx dataset are placed in CausaEQTL_result.
+## Cite
+If you draw on our work, we encourage you to cite our paper:
