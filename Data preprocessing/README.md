@@ -1,5 +1,5 @@
-##This part introduces our data preprocessing  
-#We conducted experiments on a large cluster, so our code is also designed to facilitate parallel computing.  
+## This part introduces our data preprocessing  
+# We conducted experiments on a large cluster, so our code is also designed to facilitate parallel computing.  
 
 1.Convert GTEx vcf file to csv file  
 2.GTEx version converted from GRCH38 to GRCH37  
