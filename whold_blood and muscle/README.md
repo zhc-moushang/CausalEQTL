@@ -1,4 +1,4 @@
-## This part is the result of realizing the whole blood tissue and muscle tissue in the paper.
+## This part is to reproduce the results of whole blood tissue and muscle tissue in the paper.
 
 1.Data preprocessing follows the method in Data processing, we need the csv file and info file of each gene.  
 
