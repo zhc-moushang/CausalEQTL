@@ -35,3 +35,14 @@ Y <- data.matrix(Y)
 Our results for 48 organizations on the GTEx dataset are placed in CausaEQTL_result.
 ## Cite
 If our work is helpful to you, we encourage you to cite our paper: https://doi.org/10.1016/j.csbj.2024.05.050
+```
+@article{wang2024optimal,
+  title={Optimal variable identification for accurate detection of causal expression Quantitative Trait Loci with applications in heart-related diseases},
+  author={Wang, Guishen and Zhang, Hangchen and Shao, Mengting and Tian, Min and Feng, Hui and Li, Qiaoling and Cao, Chen},
+  journal={Computational and Structural Biotechnology Journal},
+  volume={23},
+  pages={2478--2486},
+  year={2024},
+  publisher={Elsevier}
+}
+```
